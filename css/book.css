@@ -1,0 +1,32 @@
+*{
+	margin:0;
+	padding:0;
+}
+@media screen and (max-width:900px;){
+.header{
+	width:100%;
+	height:180px; background-color:red;
+}
+.content{
+	width:100%;
+	height:420px; background:blue;
+}
+.footer{
+	width:100%;
+	height:20px; background:green;
+}
+}
+@media screen and (mix-width:900px;){
+.header{
+	width:100%;
+	height:180px; background-color:red;
+}
+.content{
+	width:100%;
+	height:420px; background:blue;
+}
+.footer{
+	width:100%;
+	height:20px; background:green;
+}
+}
